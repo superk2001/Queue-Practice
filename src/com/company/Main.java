@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class Main {
 
     public static void main(String[] args) {
+        
     	Queue testQueue1 = new Queue();
     	testQueue1.enqueue(1);
     	testQueue1.enqueue(2);
